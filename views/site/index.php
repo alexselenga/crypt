@@ -6,6 +6,5 @@ $this->title = 'Эмулятор платежной системы:';
 ?>
 <div class="site-index">
     <div class="body-content">
-
     </div>
 </div>
